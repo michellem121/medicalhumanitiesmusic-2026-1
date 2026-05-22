@@ -2,14 +2,14 @@
 Title: War Requiem, Op.66
 Year: 1962
 Genre: Requiem
-Disease: War
-ICD: War(as a social disease)
+Disease: PTSD
+ICD: F43.1
 ---
 
 
 # War Requiem, Op.66
 
-Benjamin Britten’s *War Requiem* presents war as a “social disease” and reveals the experience of human suffering, that is, “illness,” through sound. As discussed in class, medicine focuses on objective “disease,” whereas medical humanities focus on the narrative and experience of those who suffer from it. This work expresses that distinction musically by juxtaposing the collective language of death in the Latin Requiem with the individual voice of suffering in Wilfred Owen’s war poetry. In particular, the phrase “Dies irae, dies illa” expresses collective destruction and fear, while the line “I am the enemy you killed, my friend” in the final movement breaks down the boundary between the enemy and the self, showing that the suffering of war cannot be reduced to an individual experience. Furthermore, as discussed in class, pain is inherently difficult to verbalize, and the dissonance and fragmented structure of this work allow the listener to physically experience suffering rather than simply explaining it. Ultimately, War Requiem functions not by representing disease itself, but as a musical “illness narrative” that reveals how humans experience and perceive suffering.
+Benjamin Britten’s *War Requiem* presents war as a “social disease” and reveals the experience of human suffering, that is, “illness,” through sound. As discussed in class, medicine focuses on objective “disease,” whereas medical humanities focus on the narrative and experience of those who suffer from it. This work expresses that distinction musically by juxtaposing the collective language of death in the Latin Requiem with the individual voice of suffering in Wilfred Owen’s war poetry. In particular, the phrase “Dies irae, dies illa” expresses collective destruction and fear, while the line “I am the enemy you killed, my friend” in the final movement breaks down the boundary between the enemy and the self, showing that the suffering of war cannot be reduced to an individual experience. Furthermore, as discussed in class, pain is inherently difficult to verbalize, and the dissonance and fragmented structure of this work allow the listener to physically experience suffering rather than simply explaining it. Ultimately, War Requiem functions not by representing disease itself, but as a musical “illness narrative” that reveals how humans experience and perceive suffering. More specifically, when connected to the musical expressions themselves, the second movement, Dies Irae, intensifies the violence and fear of war through the powerful entrance of the brass instruments and the repeatedly driving rhythms, while the massive sonority of the chorus and orchestra aurally embodies the image of collective destruction. In addition, in the final movement, Libera me, the section in which the tenor and baritone sing “I am the enemy you killed, my friend” in a low and unstable melodic line evokes feelings of guilt and the intrusive recollections associated with post-traumatic stress disorder (PTSD), conveying the trauma of war in a more direct manner. In this regard, it would also be helpful to refer to [music used in other works](kim-munsun.md). In particular, rather than functioning merely as background music, it shares a similar approach with War Requiem in that it allows the audience to physically experience the psychological effects of war, including PTSD.
 
 # 전쟁 레퀴엠, 작품 번호 66
 
